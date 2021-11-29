@@ -1,4 +1,9 @@
-### Hi there 👋
+### ![alt text](https://miro.medium.com/max/1400/1*nftoTHMTibmPs4gpgvhEeQ.png)
+
+- 🔭 I’m currently working on learning to code in general
+- 🌱 I’m currently learning java, but I want to learn alot more
+- 💬 Ask me about anything, but if you play any games lmk
+
 
 <!--
 **KU-5H/KU-5H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
