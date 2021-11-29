@@ -1,1 +1,0 @@
-![alt text](https://miro.medium.com/max/1400/1*nftoTHMTibmPs4gpgvhEeQ.png)
