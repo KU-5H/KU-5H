@@ -1,8 +1,8 @@
 ### ![alt text](https://miro.medium.com/max/1400/1*nftoTHMTibmPs4gpgvhEeQ.png)
 
 - 🔭 I’m currently working on learning to code in general
-- 🌱 I’m currently learning java, but I want to learn alot more
-- 💬 Ask me about anything, but if you play any games lmk
+- 🌱 Currently learning Web developement and java in my program. Recently learned Python
+- 💬 Ask me about anything, I'm big into graphical development and would love to learn more!
 
 
 <!--
