@@ -1,7 +1,7 @@
 ### ![alt text](https://miro.medium.com/max/1400/1*nftoTHMTibmPs4gpgvhEeQ.png)
 
 - 🔭 I’m currently working on learning to code in general
-- 🌱 Currently learning Web developement and java in my program. Recently learned Python
+- 🌱 Currently learning Web developement, Vim and Data Structures.
 - 💬 Ask me about anything, I'm big into graphical development and would love to learn more!
 
 
