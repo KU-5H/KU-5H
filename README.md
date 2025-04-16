@@ -4,14 +4,13 @@ I'm a Computer Science student at Toronto Metropolitan University and currently 
 
 ---
 ### 🔭 Working on:
-* **VCTBot**: A Python Discord bot to tell you all about VCT!
-* **Rotify**: A full-stack web app, made to teach people educational concepts through brainrot! Made with nextJS and ChatGPT API.
+* **[VCTBot](https://github.com/KU-5H/VCTBot)**: A Python Discord bot to tell you all about VCT!
+* **[Rotify](https://github.com/KU-5H/Rotify)**: A full-stack web app, made to teach people educational concepts through brainrot! Made with nextJS and ChatGPT API.
 
 ### 🌱 Learning & Exploring:
-* Mastering tools like **Vim**, **Docker**, **Kubernetes**, and **GCP**.
+* Mastering tools like **Docker**, **Kubernetes**, and **GCP**.
 ---
 ### 🛠️ Tech Stack & Skills:
-
 <p align="left">
   <strong>Languages:</strong><br>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/></a>
