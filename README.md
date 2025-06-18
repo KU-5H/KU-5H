@@ -1,6 +1,6 @@
 # Hi there, I'm Kush Patel! 👋
 
-I'm a Computer Science student at Toronto Metropolitan University and currently working as a Software Developer Intern at Kijiji Canada. I'm passionate about building robust applications and exploring different facets of software development.
+I'm a Computer Science student at Toronto Metropolitan University and currently working as a Research Assistant at the Cybersecurity Research Lab and TMU. I'm passionate about building robust applications and exploring different facets of software development.
 
 ---
 ### 🔭 Working on:
