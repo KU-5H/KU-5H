@@ -1,12 +1,12 @@
 # Hi there, I'm Kush Patel! 👋
 
-I'm a Computer Science student at Toronto Metropolitan University and currently working as a Research Assistant at the Cybersecurity Research Lab and TMU. I'm passionate about building robust applications and exploring different facets of software development.
+I'm a Computer Science student at Toronto Metropolitan University and am currently working as a Research Assistant at the Cybersecurity Research Lab and TMU. I'm passionate about building robust applications and exploring different facets of software development.
 
 ---
 ### 🔭 Working on:
 * **[VCTBot](https://github.com/KU-5H/VCTBot)**: A Python Discord bot to tell you all about VCT!
-* **[Scope Studios](https//scopestudios.org)**: A streetwear clothing brand aimed to sell unique clothes on the market! I'm working on the development of the website.
-
+* **[Scope Studios](https://scopestudios.org)**: A streetwear clothing brand aimed to sell unique clothes on the market! I'm working on developing the website.
+ 
 ### 🌱 Learning & Exploring:
 * Mastering tools like **Docker**, **Kubernetes**, and **GCP**.
 ---
