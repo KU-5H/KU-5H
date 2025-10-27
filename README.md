@@ -5,7 +5,7 @@ I'm a Computer Science student at Toronto Metropolitan University and currently 
 ---
 ### 🔭 Working on:
 * **[VCTBot](https://github.com/KU-5H/VCTBot)**: A Python Discord bot to tell you all about VCT!
-* **[Rotify](https://github.com/KU-5H/Rotify)**: A full-stack web app, made to teach people educational concepts through brainrot! Made with nextJS and ChatGPT API.
+* **[Scope Studios](https//scope-studios.org)**: A streetwear clothing brand aimed to sell unique clothes on the market! I'm working on the development of the website.
 
 ### 🌱 Learning & Exploring:
 * Mastering tools like **Docker**, **Kubernetes**, and **GCP**.
